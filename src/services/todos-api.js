@@ -1,6 +1,6 @@
 // All of our endpoints
 import axios from 'axios'
-const baseURL = 'https://express-todos-28.onrender.com/todos'
+const baseURL = 'https://express-todo-vaed.onrender.com/todos'
 // const baseURL = 'http://localhost:3001/todos'
 // Show all
 export const getTodos = () => {
